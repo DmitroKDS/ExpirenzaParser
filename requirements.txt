@@ -1,0 +1,4 @@
+appium-python-client
+selenium
+requests
+beautifulsoup4
